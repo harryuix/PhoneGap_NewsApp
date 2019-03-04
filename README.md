@@ -1,6 +1,6 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Estonia News App PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
-A PhoneGap Hello World template
+A PhoneGap Estonia News App template
 
 ## Usage
 

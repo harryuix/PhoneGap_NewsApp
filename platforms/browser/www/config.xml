@@ -8,10 +8,10 @@
     </feature>
     <name>news-app</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Estonia News App
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="harryuix@gmail.com">
+        Harikrishnan Gopal Janakiraman
     </author>
     <content src="index.html" />
     <access origin="*" />

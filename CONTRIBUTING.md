@@ -1,6 +1,6 @@
 ## Contributing
 
-Thank you for your interest in contributing to the Hello World PhoneGap Template.
+Thank you for your interest in contributing to the Estonia News App PhoneGap Template.
 
 #### Issues
 
